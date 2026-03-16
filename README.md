@@ -1,2 +1,2 @@
 # Gambling game
-My profirst project ig
+My first project ig
