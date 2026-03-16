@@ -1,2 +1,2 @@
-# Projects
-My projects that ill upload
+# Gambling game
+My profirst project ig
